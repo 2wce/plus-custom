@@ -5,7 +5,8 @@
   	"authors": [
     	"Kuda Mupeni <terrencemupeni@gmail.com>"
     	],
-    "version": "0.1"    
-        "bower.json"
-    ]
+   "version": "0.1",
+      "ignore": [      
+          "bower.json"
+      ]
 }
